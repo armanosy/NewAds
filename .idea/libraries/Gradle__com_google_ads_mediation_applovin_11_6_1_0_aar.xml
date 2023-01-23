@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:applovin:11.6.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b268ddaeb08205269ff524d9ebb99d1b/applovin-11.6.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b268ddaeb08205269ff524d9ebb99d1b/applovin-11.6.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b268ddaeb08205269ff524d9ebb99d1b/applovin-11.6.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b268ddaeb08205269ff524d9ebb99d1b/applovin-11.6.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/applovin/11.6.1.0/46e8a4e1e30a64dfe893cb3f9301c3840469df9c/applovin-11.6.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

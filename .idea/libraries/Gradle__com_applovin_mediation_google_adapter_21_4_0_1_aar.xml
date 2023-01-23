@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:google-adapter:21.4.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9790446fc65d05faec3c4ab536193a2/google-adapter-21.4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9790446fc65d05faec3c4ab536193a2/google-adapter-21.4.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9790446fc65d05faec3c4ab536193a2/google-adapter-21.4.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/google-adapter/21.4.0.1/ab157741e4d0ea1e5effa98e81b556e0b2ba946/google-adapter-21.4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
